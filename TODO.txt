@@ -1,0 +1,3 @@
+Adding a progressbar to the download maneger.
+Polshing the app and making it pretty.
+publishing the app to all platforms.
